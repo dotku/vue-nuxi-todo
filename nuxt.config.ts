@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   target: "static",
   router: {
-    base: "/<repository-name>/",
+    base: "/vue-nuxi-todo/",
   },
   css: ["~/assets/css/main.css"],
   postcss: {
